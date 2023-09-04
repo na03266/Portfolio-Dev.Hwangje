@@ -24,15 +24,15 @@ blog - https://blog.naver.com/na03266
   1-1. [교육/캠프] Nano Jetson 기반의 딥러닝 실습  
   1-2. [교육/캠프] Unity(유니티) & Blender(블렌더)를 활용한 게임 콘텐츠 제작  
   1-3. [교육/캠프] 딥러닝 실습과 Java Framework 현장 실무  
-  1-4. [ICT멘토링] 어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련  
-  1-5. [ICT멘토링] 여름지이  
+  1-4. [ICT멘토링] [이브와]어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련  
+  1-5. [ICT멘토링] [프로보노]여름지이  
   1-6. [교육/캠프] 진주 폴리텍대학 AI소프트웨어학과  
   
 3. [프로젝트 요약](#프로젝트-요약)  
   2-1. [JetsonNano](#2023.9)  
-  2-2. [Python](#2023.9)  
+  2-2. [Python](#python)  
   2-3. [Springboot](#2023.6)  
-  2-5. [이브와](#2023.3)  
+  2-5. [ICT멘토링](#ICT멘토링)  
   2-5. [프로보노](#2023.3)  
 
 4. [프로젝트 상세](#프로젝트-상세)  
@@ -48,8 +48,8 @@ blog - https://blog.naver.com/na03266
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
 | 2023.04 -   | 진주 폴리텍 AI소프트웨어과 | 폴리텍 대학 재단에서 23년 최초 개설 학과로 웹, 앱 및 AI 관련 기초 지식 획득 <br>https://www.kopo.ac.kr/jinju/content.do?menu=12979|
-| 2023.05. -  | <img src="./img/fire.png"> 어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련 | Unity와 Blender를 사용한 가상현실 게임 <br> 이브와에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가주제** : [어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련](#ios-옛다) <br> https://www.hanium.or.kr/portal/kibwa/businessOverview.do |
-| 2023.03. - 2023.04. | <img src="./img/Farm.png"> 여름지이 | 농민과 노동자, 소비자의 소통을 보조하는 웹 앱 <br> 한이음에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가 주제** : [여름지이](#ios-옛다) <br> https://www.hanium.or.kr/portal/index.do |
+| 2023.05. -  | <img src="./img/fire.png"> 어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련 | Unity와 Blender를 사용한 가상현실 게임 <br> `이브와`에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가주제** : [어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련](#ios-옛다) <br> https://www.hanium.or.kr/portal/kibwa/businessOverview.do |
+| 2023.03. - 2023.04. | <img src="./img/Farm.png"> 여름지이 | 농민과 노동자, 소비자의 소통을 보조하는 웹 앱 <br> `프로보노`에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가 주제** : [여름지이](#ios-옛다) <br> https://www.hanium.or.kr/portal/index.do |
 | 2023.03   | 진주폴리텍 대학 AI소프트웨어과 | 웹 & 앱개발(Front-End), 서버/제어(Back-End), 빅데이터 관리, 딥러닝/인공지능 모델 학습, 기업 융합 프로젝트 <br>https://www.kopo.ac.kr/jinju/content.do?menu=12979|
 
 
@@ -57,14 +57,19 @@ blog - https://blog.naver.com/na03266
 
 # **프로젝트 요약**
 
-## 2023. 9
+## python
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2020.09. - 진행중 | **[NBE 모니터링 시스템](#ios-옛다)**  <br> *남북이엔지* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
-| 2023.05. -  | <img src="./"> 어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련 | Unity와 Blender를 사용한 가상현실 게임 <br> 이브와에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **활동 프로젝트** : [어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련](#ios-옛다) <br> https://www.hanium.or.kr/portal/kibwa/businessOverview.do |
-| 2023.03. - 2023.04. | <img src="./img/Farm.png"> 여름지이 | 농민과 노동자, 소비자의 소통을 보조하는 웹 앱 <br> 프로보노에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **활동 프로젝트** : [여름지이](#ios-옛다) <br> https://www.hanium.or.kr/portal/probono/businessOverview.do |
+| 2020.09. - 진행중 | **[NBE 모니터링 시스템](#ios-옛다)**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
 
 
+<br><br><br>
+
+## ICT멘토링
+| 기간 | 프로젝트 명 | 내용     |
+|:----|:---------|:--------|
+| 2023.05. - 2023.07  | [어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련](#pm-어린이-안전강화-현실기반-어린이-vr재난-대피-훈련) <br> *이브와* | Unity와 Blender를 사용한 가상현실 게임 <br> **PART** : 전체 문서 및 시나리오 관리 (기여도 50%)  <br> **LIST** : 개발 보고서, SW개발 설계서, 시나리오 설계서, 회의록, 회고록 <br> STACK : `Unity`, `Blender` |
+| 2023.03. - 2023.04. | **[여름지이](#pm-여름지이)**<br>*프로보노*| 농민과 노동자, 소비자의 소통을 보조하는 도농, 농직, 인력 중개플랫폼 등을 통합한 웹 앱 <br> **PART** : 팀장  <br> **LIST** : 아이디어 제안서, 개요서, 아키텍처 설계서, 발표자료 <br> STACK : `HTML`, `CSS`, `JavaScript`, `JAVA` |
 <br>
 
 # **프로젝트 상세**
@@ -72,33 +77,27 @@ blog - https://blog.naver.com/na03266
 <img src="./img/옛다(1).png"  width="200">
 
 > 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱
-- iOS Source : https://github.com/Nexters/Yetda_iOS  
-Android Download : https://play.google.com/store/apps/details?id=com.nexters.yetda.android  
-iOS Download : 배포 예정  
+- Source : https://github.com/NaHwangje/NSENG  
+
 
 - Nexters에서 활동하며 진행한 2번째 프로젝트입니다. 지인의 생일 선물을 준비할 때 어떤 선물을 골라야 할 지 고민이 됩니다. 생일인 사람에게 직접 받고 싶은 선물을 물어보기보다는 간단한 질문들을 통해 랜덤으로 선물을 추천해 주는 앱으로 그 고민을 해결하고자 하였습니다. 귀여운 일러스트와 모션(Lottie)을 적용하였습니다.
 
 ---
 
 ## [PM] 어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련  
-<img src="./img/아무계.png"  width="200">
+<img src="./img/fire.png"  width="200">
 
-> 요리할 때 주변에서 쉽게 구할 수 있는 도구로 계량을 도와주는 앱  
-- iOS Source : https://github.com/Nexters/Amoogye-iOS  
-Android Download : https://play.google.com/store/apps/details?id=cookcook.nexters.com.amoogye  
-iOS Download : 배포 예정  
+> 아이들을 위한 가상현실 3D 안전 교육 프로그램
+- 개발중(70%)
 
-- Nexters에서 활동하게 되면서 진행하게 된 프로젝트입니다. 요즘은 인터넷에 조금만 검색해도 다양한 레시피들이 나오기 때문에 누구나 쉽게 다양한 요리를 해 볼 수 있습니다. 하지만 요리 초보자들에게는 계량도구가 없는 상황에서 레시피의 단위가 정량 수치로 되어있으면 참 당황스럽습니다. 이런 분들을 위해 아무계를 개발하게 되었습니다.
+- 어린이들이 다니고 있는 학교를 기반으로 다지인을 수정하며, 화재 사고 발생시 대처 법을 간접적으로 체험함으로써 실제상황 발생시 대처능력을 향상시켜 사고율을 낮추기를 기대하면서 준비한 프로젝트입니다.프로젝트 도중에 합류하여 유니티와 블랜더라는 툴을 처음으로 다루어 보기도 하고, 주로 시나리오, 처리해야할 문서등을 만졌지만, 직접 제작하는 과정을 정리하고 프로젝트 기간에 따른 진행도 및 보고서를 제작하게 되면서 유니티와 블렌더에 대한 이해가 깊어지게 된 경험이었습니다.
 
 ---
 ## [PM] 여름지이
 <img src="./img/Farm.png"  width="200">
 
 > 도농, 농직, 인력중개플랫폼을 통합한 플랫폼 개설 
-- iOS Source : https://github.com/Nexters/Amoogye-iOS  
-Android Download : https://play.google.com/store/apps/details?id=cookcook.nexters.com.amoogye  
-
-- 처음으로 팀장으로 활동했던 프로젝트입니다. 아이디어 회의를 하다가 농기계임대 플랫폼이 아이디어로 나왔고, 아이디어를 얻게 됨과 동시에 "우리도 네이버나 카카오처럼 통합한 서비스를 만들어보자!" 라는 생각으로 준비했던 프로젝트입니다.
+- 처음 진행했던 프로젝트이기도 하고 처음으로 팀장으로 활동했던 프로젝트입니다. 아이디어 회의를 하다가 농기계임대 플랫폼과 농촌 일자리 알선이라는 아이디어를 얻게 됨과 동시에 "우리도 네이버나 카카오처럼 통합한 서비스를 만들어보자!" 라는 생각으로 준비했던 프로젝트입니다. 끝까지 함께 하지는 못했지만, 아이디어를 세분화하고, 필요한 기능들을 구분하고 제안서까지 직접 만드는 과정에서 소프트웨어의 아이디어로 설계까지의 깊게 익히게 된 프로젝트 였습니다.
 ---
 
 
