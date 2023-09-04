@@ -22,8 +22,8 @@ blog - https://blog.naver.com/na03266
 # **목차**
 1. [활동 요약](#활동-요약)  
   1-1. [교육/캠프] Nano Jetson 기반의 딥러닝 실습  
-  1-2. [교육/캠프] Unity(유니티) & Blender(블렌더)를 활용한 게임 콘텐츠 제작  
-  1-3. [교육/캠프] 딥러닝 실습과 Java Framework 현장 실무  
+  1-2. [교육/캠프] 딥러닝 실습과 Java Framework 현장 실무  
+  1-3. [교육/캠프] Unity(유니티) & Blender(블렌더)를 활용한 게임 콘텐츠 제작  
   1-4. [ICT멘토링] [이브와]어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련  
   1-5. [ICT멘토링] [프로보노]여름지이  
   1-6. [교육/캠프] 진주 폴리텍대학 AI소프트웨어학과  
@@ -31,8 +31,8 @@ blog - https://blog.naver.com/na03266
 3. [프로젝트 요약](#프로젝트-요약)  
   2-1. [JetsonNano](#2023.9)  
   2-2. [Python](#python)  
-  2-3. [Springboot](#2023.6)  
-  2-5. [ICT멘토링](#ICT멘토링)  
+  2-3. [Web](#web)  
+  2-5. [이브와](#ICT멘토링)  
   2-5. [프로보노](#2023.3)  
 
 4. [프로젝트 상세](#프로젝트-상세)  
@@ -47,7 +47,9 @@ blog - https://blog.naver.com/na03266
 # **활동 요약**
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2023.04 -   | 진주 폴리텍 AI소프트웨어과 | 폴리텍 대학 재단에서 23년 최초 개설 학과로 웹, 앱 및 AI 관련 기초 지식 획득 <br>https://www.kopo.ac.kr/jinju/content.do?menu=12979|
+| 2023.08.26 - 2023.09.24  | <img src="./img/jetsonnano.png">Nano Jetson 기반의 딥러닝 실습| Embedded 기초 및 딥러닝 기초, 자율주행 모듈 딥러닝 <br> https://blog.naver.com/PostList.naver?blogId=na03266&from=postList&categoryNo=75|
+| 2023.07.24 - 2023.08.04  | 파이썬, 딥러닝, JAVA Framework| 파이썬 딥러닝 실습과 Java기초, Java Framework(Maven) 현장 실무<br>https://www.kopo.ac.kr/jinju/content.do?menu=12979|
+| 2023.07.10 - 2023.07.21  | <img src="./img/unity.png">Unity(유니티) & Blender(블렌더) | Unity(유니티) & Blender(블렌더)를 활용한 게임 콘텐츠 제작 <br>https://www.kopo.ac.kr/jinju/board.do?menu=14508&mode=view&post=696877|
 | 2023.05. -  | <img src="./img/fire.png"> 어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련 | Unity와 Blender를 사용한 가상현실 게임 <br> `이브와`에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가주제** : [어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련](#ios-옛다) <br> https://www.hanium.or.kr/portal/kibwa/businessOverview.do |
 | 2023.03. - 2023.04. | <img src="./img/Farm.png"> 여름지이 | 농민과 노동자, 소비자의 소통을 보조하는 웹 앱 <br> `프로보노`에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가 주제** : [여름지이](#ios-옛다) <br> https://www.hanium.or.kr/portal/index.do |
 | 2023.03   | 진주폴리텍 대학 AI소프트웨어과 | 웹 & 앱개발(Front-End), 서버/제어(Back-End), 빅데이터 관리, 딥러닝/인공지능 모델 학습, 기업 융합 프로젝트 <br>https://www.kopo.ac.kr/jinju/content.do?menu=12979|
@@ -60,7 +62,15 @@ blog - https://blog.naver.com/na03266
 ## python
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2020.09. - 진행중 | **[NBE 모니터링 시스템](#ios-옛다)**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
+| 2023.08. - 진행중 | **[NBE 모니터링 시스템](#ios-옛다)**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
+
+
+<br><br><br>
+
+## Web
+| 기간 | 프로젝트 명 | 내용     |
+|:----|:---------|:--------|
+| 2023.07. - 2023.08 | **[SpringbootDemo](#springboot)**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
 
 
 <br><br><br>
@@ -74,13 +84,13 @@ blog - https://blog.naver.com/na03266
 
 # **프로젝트 상세**
 ## [Python] NBE 모니터링 시스템
-<img src="./img/옛다(1).png"  width="200">
+<img src="./img/NBE.png"  width="200">
 
-> 간단한 질문으로 선물 받을 사람의 성향을 분석하여 생일 선물을 추천해주는 앱
+> 485포트로 전송 받은 값을 파싱하여 Python GUI로 모니터링이 편하도록 하는 프로그램
 - Source : https://github.com/NaHwangje/NSENG  
 
 
-- Nexters에서 활동하며 진행한 2번째 프로젝트입니다. 지인의 생일 선물을 준비할 때 어떤 선물을 골라야 할 지 고민이 됩니다. 생일인 사람에게 직접 받고 싶은 선물을 물어보기보다는 간단한 질문들을 통해 랜덤으로 선물을 추천해 주는 앱으로 그 고민을 해결하고자 하였습니다. 귀여운 일러스트와 모션(Lottie)을 적용하였습니다.
+- 첫 외주 프로젝트 입니다. rs232포트로 먼저 수신값을 확인하고 발신값과 수신 값이 일치하는지 확인하는 코드를 작성한 후에 각 값을 파싱하여 변수에 담아주고 GUI에 연결해주는 프로그램입니다. 현재 UI 디자인 작업이 진행중입니다. 
 
 ---
 
