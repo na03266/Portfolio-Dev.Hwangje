@@ -29,14 +29,14 @@ blog - https://blog.naver.com/na03266
   1-6. [교육/캠프] 진주 폴리텍대학 AI소프트웨어학과  
   
 3. [프로젝트 요약](#프로젝트-요약)  
-  2-1. [AI](#AI)  
-  2-2. [Web](#Web)  
-  2-3. [ICT멘토링](#ICT멘토링)  
+  2-1. [AI Software](#ai-software-요약)  
+  2-2. [Web Application](#web-요약)  
+  2-3. [ICT멘토링](#ict멘토링-요약)  
 
 4. [프로젝트 상세](#프로젝트-상세)  
   3-1. [Python] [NBE 모니터링 시스템](#Python-NBE-모니터링-시스템)  
   3-2. [JetsonNano] [JetsonNano](#ios-lifem)  
-  3-3. [Java] [블로그Demo](#블로그Demo)  
+  3-3. [Java] [SpringbootDemo](#블로그Demo)  
   3-5. [이브와] [어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련](#문서-어린이-안전-강화!-현실기반-어린이-VR재난-대피-훈련)  
   3-6. [프로보노] [여름지이](#기획-여름지이)  
 
@@ -57,11 +57,11 @@ blog - https://blog.naver.com/na03266
 
 # **프로젝트 요약**
 
-## AI 요약
+## AI Software 요약
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2023.08. - 진행중 | **[NBE 모니터링 시스템](#ios-옛다)**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
-| 2023.09. - 진행중 | **[JetsonNano And Ubuntu]()**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
+| 2023.08.27 - 2023.10.07 | **[NBE 모니터링 시스템](#ios-옛다)**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
+| 2023.09.01 - 2023.10.07 | **[JetsonNano And Ubuntu]()**  <br> *외주* | Jetson Nano를 처음 배우는 학생들을 위한 가이드북 제작  <br> **PART** : 문서, OS, 응용소프트웨어 (기여도 30%) <br> **LIST** : Ubuntu, Nvidia,  <br> **STACK** : `Ubuntu`,`한글`, `Python`|
 
 
 <br><br><br>
@@ -69,8 +69,8 @@ blog - https://blog.naver.com/na03266
 ## Web 요약
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2023.07.10 - 2023.08.31 | **[SpringbootDemo](#)**  <br> *개인프로젝트* | Gradle을 사용해서 블로그 기본 기능 구현, 디비 연결 <br> **PART** : 개인진행 <br> **LIST** : DB구조 설계 / 회원가입, 로그인 / OAuth2 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Gradle`, `AWS`, `MySQL`, `RDB`, `EC2`, `Git-Action`, `OAuth2` |
-| 2023.07.10 - 2023.08.31 | **[SpringbootDemo](#)**  <br> *개인프로젝트* | Gradle을 사용해서 블로그 기본 기능 구현, 디비 연결 <br> **PART** : 개인진행 <br> **LIST** : DB구조 설계 / 회원가입, 로그인 / OAuth2 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Gradle`, `AWS`, `MySQL`, `RDB`, `EC2`, `Git-Action`, `OAuth2` |
+| 2023.08.11 - 2023.09.31 | **[Maven](#web-maven)**  <br> *개인프로젝트* | Maven을 사용해서 댓글 기능 구현 <br> **PART** : 개인진행 <br> **LIST** : 부분 별 암호화 기능 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Maven`, `MySQL` |
+| 2023.07.10 - 2023.08.06 | **[Gradle](#web-gradle)**  <br> *개인프로젝트* | Gradle을 사용해서 블로그 기본 기능 구현, AWS 활용 <br> **PART** : 개인진행 <br> **LIST** : DB구조 설계 / 회원가입, 로그인 / OAuth2 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Gradle`, `AWS`, `MySQL`, `RDB`, `EC2`, `Git-Action`, `OAuth2` |
 
 
 <br><br><br>
@@ -103,13 +103,41 @@ blog - https://blog.naver.com/na03266
 
 ---
 
+## [Web] Maven
+<img src="."  width="200">
+
+> spring boot
+- asd
+
+- asd
+
+---
+
+## [Web] Gradle
+<img src="."  width="200">
+
+> 워드프레스를 직접 제작해 보기위한 발판작업
+- asd
+
+- asd
+
+---
+
+## [Python] NEAR
+<img src="./img/near.png"  width="200">
+
+> 홀로렌즈(VR글래스)를 이용해서 청각 장애우들이 시간, 장소에 구애받지 않고 어디에서든 편의기능을 제공하기 위한 프로그램
+
+- 청각장애인은 소통, 교육적인 측면과 업무 관련된 문제에서 어려움을 겪고 있는데, AR글래스 NEAR을 통해 시간, 장소에 구애받지 않고 언제 어디서든 사용할 수 있는 편의를 제공하고자 기획한 프로젝트, 추가하려 했던 부가기능이 너무 많았기 때문에, 조금씩 기능을 추가하면서 업데이트를 목적으로 기본기능 제작에 중심을 두고 추가 유지보수를 계획했었음.
+
+---
+
 ## [PM] 어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련  
 <img src="./img/fire.png"  width="200">
 
 > 아이들을 위한 가상현실 3D 안전 교육 프로그램
-- 개발중
 
-- 어린이들이 다니고 있는 학교를 기반으로 다지인을 수정하며, 화재 사고 발생시 대처 법을 간접적으로 체험함으로써 실제상황 발생시 대처능력을 향상시켜 사고율을 낮추기를 기대하면서 준비한 프로젝트입니다.프로젝트 도중에 합류하여 유니티와 블랜더라는 툴을 처음으로 다루어 보기도 하고, 주로 시나리오, 처리해야할 문서등을 만졌지만, 직접 제작하는 과정을 정리하고 프로젝트 기간에 따른 진행도 및 보고서를 제작하게 되면서 유니티와 블렌더에 대한 이해가 깊어지게 된 경험이었습니다.
+- 어린이들이 다니고 있는 학교를 기반으로 다지인을 수정하며, 화재 사고 발생시 대처 법을 간접적으로 체험함으로써 실제상황 발생시 대처능력을 향상시켜 사고율을 낮추기를 기대하면서 준비한 프로젝트입니다.프로젝트 도중에 합류하여 유니티와 블랜더라는 툴을 처음으로 다루어 보기도 하고, 주로 시나리오, 처리해야할 문서등을 만졌지만, 직접 제작하는 과정을 정리하고 프로젝트 기간에 따른 진행도 및 보고서를 제작하게 되면서 유니티와 블렌더에 대한 이해도가 높아지게 된 경험이었습니다.
 
 ---
 ## [PM] 여름지이
