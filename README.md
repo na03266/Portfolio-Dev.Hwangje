@@ -57,7 +57,7 @@ blog - https://blog.naver.com/na03266
 
 # **프로젝트 요약**
 
-## AI
+## AI 요약
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
 | 2023.08. - 진행중 | **[NBE 모니터링 시스템](#ios-옛다)**  <br> *외주* | 485포트로 전송받는 값을 파싱해서 모니터링이 가능한 정보로 보여주는 프로그램  <br> **PART** : 문서 및 API부분 (기여도 25%) <br> **LIST** : 전송 값 파싱 및 송수신, 회의록, 회고록 등의 문서  <br> **STACK** : `python`|
@@ -66,23 +66,25 @@ blog - https://blog.naver.com/na03266
 
 <br><br><br>
 
-## Web
+## Web 요약
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
+| 2023.07.10 - 2023.08.31 | **[SpringbootDemo](#)**  <br> *개인프로젝트* | Gradle을 사용해서 블로그 기본 기능 구현, 디비 연결 <br> **PART** : 개인진행 <br> **LIST** : DB구조 설계 / 회원가입, 로그인 / OAuth2 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Gradle`, `AWS`, `MySQL`, `RDB`, `EC2`, `Git-Action`, `OAuth2` |
 | 2023.07.10 - 2023.08.31 | **[SpringbootDemo](#)**  <br> *개인프로젝트* | Gradle을 사용해서 블로그 기본 기능 구현, 디비 연결 <br> **PART** : 개인진행 <br> **LIST** : DB구조 설계 / 회원가입, 로그인 / OAuth2 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Gradle`, `AWS`, `MySQL`, `RDB`, `EC2`, `Git-Action`, `OAuth2` |
 
 
 <br><br><br>
 
-## ICT멘토링
+## ICT멘토링 요약
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
+| 2023.07. - 2023.10  | [NEAR](#pm-어린이-안전강화-현실기반-어린이-vr재난-대피-훈련) <br> *프로보노* | VR Glass를 이용한 청각장애인 <br> **PART** : 전체 문서 및 시나리오 관리 (기여도 20%)  <br> **LIST** : SW세부 설계서 <br> STACK : `DeepLearning`, `Python` |
 | 2023.05. - 2023.07  | [어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련](#pm-어린이-안전강화-현실기반-어린이-vr재난-대피-훈련) <br> *이브와* | Unity와 Blender를 사용한 가상현실 게임 <br> **PART** : 전체 문서 및 시나리오 관리 (기여도 50%)  <br> **LIST** : 개발 보고서, SW개발 설계서, 시나리오 설계서, 회의록, 회고록 <br> STACK : `Unity`, `Blender` |
 | 2023.03. - 2023.04. | **[여름지이](#pm-여름지이)**<br>*프로보노*| 농민과 노동자, 소비자의 소통을 보조하는 도농, 농직, 인력 중개플랫폼 등을 통합한 웹 앱 <br> **PART** : 팀장  <br> **LIST** : 아이디어 제안서, 개요서, 아키텍처 설계서, 발표자료 <br> STACK : `HTML`, `CSS`, `JavaScript`, `JAVA` |
 <br>
 
 # **프로젝트 상세**
-## [Python] NBE 모니터링 시스템
+## [Python] NBE 모니터링 시스템 상세
 <img src="./img/NBE.png"  width="200">
 
 > 485포트로 전송 받은 값을 파싱하여 Python GUI로 모니터링이 편하도록 하는 프로그램
@@ -92,7 +94,6 @@ blog - https://blog.naver.com/na03266
 - 첫 외주 프로젝트 입니다. rs232포트로 먼저 수신값을 확인하고 발신값과 수신 값이 일치하는지 확인하는 코드를 작성한 후에 각 값을 파싱하여 변수에 담아주고 GUI에 연결해주는 프로그램입니다. 현재 UI 디자인 작업이 진행중입니다. 
 
 ---
-# **프로젝트 상세**
 ## [Linux] Jetson Nano And Ubuntu
 <img src="./img/jetsonnano.png"  width="200">
 
