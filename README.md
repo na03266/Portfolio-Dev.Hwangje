@@ -46,10 +46,12 @@ blog - https://blog.naver.com/na03266
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
 | 2023.08.26 - 2023.09.24  | <img src="./img/jetsonnano.png">Nano Jetson 기반의 딥러닝 실습| Embedded 기초 및 딥러닝 기초, 자율주행 모듈 딥러닝 <br> https://blog.naver.com/PostList.naver?blogId=na03266&from=postList&categoryNo=75|
+| 2023.09.01  | <img src="./img/정보처리기사.jpg">한국산업인력공단| 정보처리기사 최종 합격|
 | 2023.07.24 - 2023.08.04  | 파이썬, 딥러닝, JAVA Framework| 파이썬 딥러닝 실습과 Java기초, Java Framework(Maven) 현장 실무<br>https://www.kopo.ac.kr/jinju/content.do?menu=12979|
 | 2023.07.10 - 2023.07.21  | <img src="./img/unity.png">Unity(유니티) & Blender(블렌더) | Unity(유니티) & Blender(블렌더)를 활용한 게임 콘텐츠 제작 <br>https://www.kopo.ac.kr/jinju/board.do?menu=14508&mode=view&post=696877|
 | 2023.05. -  | <img src="./img/fire.png"> 어린이 안전 강화! 현실기반 어린이 VR재난 대피 훈련 | Unity와 Blender를 사용한 가상현실 게임 <br> `이브와`에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가주제** : [어린이 안전강화! 현실기반 어린이 VR재난 대피 훈련](#ios-옛다) <br> https://www.hanium.or.kr/portal/kibwa/businessOverview.do |
 | 2023.03. - 2023.04. | <img src="./img/Farm.png"> 여름지이 | 농민과 노동자, 소비자의 소통을 보조하는 웹 앱 <br> `프로보노`에서 진행하는 ICT멘토링 공모전으로 ICT기업전문가와 대학생(멘티)가 팀을 이루어 수행하는 프로젝트   <br> **참가 주제** : [여름지이](#ios-옛다) <br> https://www.hanium.or.kr/portal/index.do |
+| 2023.03.   | 한국산업인력공단 | 정보처리기사 필기 합격 <br>|
 | 2023.03   | 진주폴리텍 대학 AI소프트웨어과 | 웹 & 앱개발(Front-End), 서버/제어(Back-End), 빅데이터 관리, 딥러닝/인공지능 모델 학습, 기업 융합 프로젝트 <br>https://www.kopo.ac.kr/jinju/content.do?menu=12979|
 
 
@@ -64,12 +66,13 @@ blog - https://blog.naver.com/na03266
 | 2023.09.01 - 2023.10.07 | **[JetsonNano And Ubuntu]()**  <br> *외주* | Jetson Nano를 처음 배우는 학생들을 위한 가이드북 제작  <br> **PART** : 문서, OS, 응용소프트웨어 (기여도 30%) <br> **LIST** : Ubuntu, Nvidia,  <br> **STACK** : `Ubuntu`,`한글`, `Python`|
 
 
+
 <br><br><br>
 
 ## Web 요약
 | 기간 | 프로젝트 명 | 내용     |
 |:----|:---------|:--------|
-| 2023.08.11 - 2023.09.31 | **[Maven](#web-maven)**  <br> *개인프로젝트* | Maven을 사용해서 댓글 기능 구현 <br> **PART** : 개인진행 <br> **LIST** : 부분 별 암호화 기능 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Maven`, `MySQL` |
+| 2023.08.11 - 2023.09.31 | **[Maven](#web-maven)**  <br> *개인프로젝트* | Maven을 사용해서 댓글 기능 구현 <br> **PART** : 개인진행 <br> **LIST** : 부분 별 암호화 기능 / SpringSecurity / 게시판 글 작성, 수정, 삭제, 좋아요 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Maven`, `MySQL` |
 | 2023.07.10 - 2023.08.06 | **[Gradle](#web-gradle)**  <br> *개인프로젝트* | Gradle을 사용해서 블로그 기본 기능 구현, AWS 활용 <br> **PART** : 개인진행 <br> **LIST** : DB구조 설계 / 회원가입, 로그인 / OAuth2 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Gradle`, `AWS`, `MySQL`, `RDB`, `EC2`, `Git-Action`, `OAuth2` |
 
 
