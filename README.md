@@ -2,7 +2,7 @@
 
 ## 나황제  
 
-### [👨‍💻 Notion 포트폴리오](http://)
+### [👨‍💻 Notion 포트폴리오](https://0326.notion.site/e646e86ba9d0440683142ed21132b2eb?pvs=4)
 
 #### Web Developer 
 
