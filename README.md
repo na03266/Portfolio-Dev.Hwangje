@@ -73,12 +73,6 @@ blog - https://blog.naver.com/na03266
 
 <br><br><br>
 
-## Web 요약
-| 기간 | 프로젝트 명 | 내용     |
-|:----|:---------|:--------|
-| 2023.08.11 - 2023.09.31 | **[Maven](#web-maven)**  <br> *개인프로젝트* | Maven을 사용해서 댓글 기능 구현 <br> **PART** : 개인진행 <br> **LIST** : 부분 별 암호화 기능 / SpringSecurity / 게시판 글 작성, 수정, 삭제, 좋아요 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Maven`, `MySQL` |
-| 2023.07.10 - 2023.08.06 | **[Gradle](#web-gradle)**  <br> *개인프로젝트* | Gradle을 사용해서 블로그 기본 기능 구현, AWS 활용 <br> **PART** : 개인진행 <br> **LIST** : DB구조 설계 / 회원가입, 로그인 / OAuth2 / SpringSecurity / 게시판 글 작성, 수정, 삭제 기능  <br> **STACK** : `Java`, `HTML`, `CSS`, `JavaScript`, `SpringBoot`, `Gradle`, `AWS`, `MySQL`, `RDB`, `EC2`, `Git-Action`, `OAuth2` |
-
 
 <br><br><br>
 
