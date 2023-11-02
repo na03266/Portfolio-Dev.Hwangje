@@ -38,6 +38,7 @@ blog - https://blog.naver.com/na03266
   2-3. [정보처리기사](#ict멘토링-요약)  
 
 1. [프로젝트 상세](#프로젝트-상세)  
+  3-1. [출석부 프로젝트](#ai-software-요약)  
   3-1. [Python] [NBE 모니터링 시스템](#Python-NBE-모니터링-시스템)  
   3-2. [JetsonNano] [JetsonNano](#ios-lifem)  
   3-3. [Java] [SpringbootDemo](#블로그Demo)  
