@@ -121,7 +121,7 @@ blog - https://blog.naver.com/na03266
 ## [Web] Gradle
 <img src="."  width="200">
 
-> 워드프레스를 직접 제작해 보기위한 발판작업
+> 워드프레스를 직접 제작해 보기위한 기초작업, 예제코드 구현위주로 구성
 - asd
 
 - asd
